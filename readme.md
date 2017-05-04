@@ -1,5 +1,6 @@
 Package requirement:
 Numpy, Scipy, Scikit-learn
+
 Gensim:(https://radimrehurek.com/gensim/)
 (First follow instructions on above. 
 If it fails on Mac OS, try $pip install --upgrade --ignore-installed gensim)
